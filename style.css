@@ -1,0 +1,50 @@
+body 
+{
+    background-color: lightblue ;
+}
+
+#score 
+{
+ font-size: 40px;
+ margin-left: 50px;
+ font-family:'Times New Roman', Times, serif;
+}
+
+#timer
+{
+ font-size: 40px;
+ margin-left: 600px;
+ font-family:'Times New Roman', Times, serif;
+}
+
+#yoursketch
+{
+    color: darkred;
+    font-size: 30px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+#drawing
+{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+#confidence
+{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+#title
+{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: darkblue;
+}
+
+#show_sketch
+{
+    background-color: darkcyan;
+    color: lightcyan;
+}
